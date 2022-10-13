@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi i am sonu prajapati 👋
 
 
-**sonuengineer/sonuengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+A passionate softwear developer from India
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
