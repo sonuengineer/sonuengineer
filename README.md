@@ -1,7 +1,7 @@
 <h1>### Hi i am sonu prajapati 👋</h1>
 
 <<div id="badges">
-  <a href=""https://www.linkedin.com/in/sonu-prajapati-213073b5/">
+  <a href="https://www.linkedin.com/in/sonu-prajapati-213073b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL](https://www.youtube.com/channel/UCYxMLKPfdtDrGXdobW_zMsw">
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sonuengineer)](https://git.io/streak-stats)
                                                                                                                              
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonuengineer)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                             
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuengineer)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                            
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuengineer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                            
