@@ -83,7 +83,7 @@ Beyond my professional endeavors, I am an avid open-source enthusiast and contri
 </p>
 
 #### Fintech Software Developer (Current)
-- Working in the fintech industry for the past 6 months.
+- Working in the fintech industry for the past 8 months.
 - Utilizing  C#, and React.js in the development of financial applications.
 - Contributing to the secure and efficient processing of financial transactions.
 - 
